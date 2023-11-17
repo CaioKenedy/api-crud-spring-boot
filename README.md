@@ -4,7 +4,6 @@ Esse é um exemplo de uma API (microserviço) para estudo tanto de programação
 
 Ela foi criada para o estudo de testes de APIS com Postman, Java e SpringBoot
 
-Usei Java e Springboot para programar essa API.
 
 ### Requisitos
 
