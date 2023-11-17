@@ -52,6 +52,12 @@ O corpo do método POST é um JSON e deve conter:
             }
 
 
+Exemplo Postman:
+
+![](img/postman.png)
+
+
+
 Conecte-se comigo
 
 [Linkedin](http://linkedin.com/in/caiokenedy/)
