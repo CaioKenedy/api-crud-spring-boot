@@ -5,13 +5,13 @@ Esse é um exemplo de uma API (microserviço) para estudo tanto de programação
 Ela foi criada para o estudo de testes de APIS com Postman, Java e SpringBoot
 
 
-### Requisitos
+### 💻  Requisitos
 
 Baixe e instale o [INTELIJ](https://www.jetbrains.com/idea/)
 
 Baixe e instale a JDK mais recente [JDK](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 
-### Como rodar esse projeto
+### 🚀 Como rodar esse projeto
 
 Clone ou baixe o projeto.
 
@@ -23,7 +23,7 @@ A aplicação será iniciada e um servidor estará rodando e acessivel no endere
 
         localhost:8080/tarefas           
 
-### A API
+### 🔧 A API
 
 A API possui os endpoints:
 
